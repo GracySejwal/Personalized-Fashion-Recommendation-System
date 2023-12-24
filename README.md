@@ -1,4 +1,4 @@
-Personalized Fashion Recommendation System
+# Personalized Fashion Recommendation System
 
 AIM: Recommendending suitable clothing similar to user closet
 
